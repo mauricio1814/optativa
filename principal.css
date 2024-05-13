@@ -184,3 +184,7 @@ h1{
     display: flex;
     padding: 40px;
 }
+
+h1{
+    font-size: medium;
+}
