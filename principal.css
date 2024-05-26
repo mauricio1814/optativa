@@ -570,7 +570,7 @@ ul {
   
 .text-primary,
 .text-dark {
-    text-decoration: nones;
+    text-decoration: none;
     font-size: 17px;
 }
 
